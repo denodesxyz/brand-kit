@@ -1,2 +1,3 @@
-# brand-kit
-A simple repository with the deNodes visual branding assets.
+# deNodes Brand Kit
+
+A simple repository with the [deNodes](https://twitter.com/_denodes) visual branding assets.
